@@ -25,7 +25,7 @@ def main_page(clicked, label_names):
 
     holder_add_text = st.empty()
     with column2:
-        additional_text = holder_add_text.write('In order to estimate which is the classification of your image, drop your file at the left')
+        additional_text = '' #holder_add_text.write('In order to estimate which is the classification of your image, drop your file at the left')
         
     if uploaded_image:
         #container = st.container()
