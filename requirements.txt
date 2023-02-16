@@ -12,7 +12,6 @@ brotlipy==0.7.0
 certifi==2021.10.8
 commonmark==0.9.1
 comtypes==1.1.10
-conda==22.11.1
 conda-build==3.21.8
 conda-verify==3.4.2
 constantly==15.1.0
