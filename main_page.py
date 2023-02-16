@@ -7,9 +7,23 @@ Created on Tue Dec 27 16:16:06 2022
 import streamlit as st
 import imagen_subida as ims
 from keras.models import load_model
+from os import system
+#Cargar el modelo
+import os
+import patoolib
+from shutil import rmtree
+from os import remove
 
+if os.path.isdir("./model_subir/model") == True:
+    rmtree("./model_subir/model/")
+if os.path.isfile("./model_subir/test_model.zip") == True:
+    remove("./model_subir/test_model.zip")
+os.system("cat ./model_subir/vgg19_trainable_true_best_model_pruebita.7z.* > ./model_subir/test_model.zip")
+
+ 
+patoolib.extract_archive("./model_subir/test_model.zip",outdir="./model_subir/model/")
 #model = load_model('../../../model/classification/vgg19_trainable_true_best_model.h5')
-model = load_model('vgg19_trainable_true_best_model.h5')
+model = load_model('./model_subir/model/vgg19_trainable_true_best_model.h5')
 
 size = (224, 224)
 
