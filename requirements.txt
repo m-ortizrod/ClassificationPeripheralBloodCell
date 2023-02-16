@@ -54,7 +54,6 @@ protobuf==3.19.1
 pyarrow==10.0.0
 pyasn1-modules==0.2.8
 pycosat==0.6.3
-pycurl==7.44.1
 pydeck==0.8.0
 PyDispatcher==2.0.5
 pylake==0.1.4
