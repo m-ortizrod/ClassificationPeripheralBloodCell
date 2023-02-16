@@ -10,7 +10,6 @@ blinker==1.5
 bokeh==2.4.3
 brotlipy==0.7.0
 certifi==2021.10.8
-clyent==1.2.2
 commonmark==0.9.1
 comtypes==1.1.10
 conda==22.11.1
