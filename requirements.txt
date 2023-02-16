@@ -36,7 +36,6 @@ mkl-service==2.4.0
 mpmath==1.2.1
 munkres==1.1.4
 mypy-extensions==0.4.3
-navigator-updater==0.2.1
 oauthlib==3.2.2
 openai==0.26.0
 opencv-contrib-python==4.6.0.66
