@@ -41,7 +41,6 @@ openai==0.26.0
 opencv-contrib-python==4.6.0.66
 opencv-python==4.7.0.68
 opt-einsum==3.3.0
-pandoc==2.
 pathspec==0.7.0
 pathtools==0.1.2
 patool==1.12
