@@ -355,7 +355,6 @@ wrapt==1.12.1
 xarray==0.20.1
 xlrd==2.0.1
 XlsxWriter==3.0.3
-xlwings==0.24.9
 yapf==0.31.0
 yarg==0.1.9
 yarl==1.6.3
