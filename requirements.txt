@@ -301,7 +301,6 @@ streamlit-toggle-switch==1.0.2
 sympy==1.10.1
 tables==3.6.1
 tabulate==0.8.9
-TBB==0.2
 tblib==1.7.0
 tenacity==8.0.1
 tensorboard==2.10.1
