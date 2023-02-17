@@ -264,7 +264,6 @@ Rtree==0.9.7
 s3transfer==0.5.0
 scikit-image==0.19.2
 scikit-learn==1.0.2
-scikit-learn-intelex==2021.20220215.102710
 scipy==1.7.3
 Scrapy==2.6.1
 seaborn==0.11.2
