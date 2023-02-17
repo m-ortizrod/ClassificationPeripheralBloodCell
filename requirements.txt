@@ -46,14 +46,6 @@ colorama==0.4.4
 colorcet==2.0.6
 commonmark==0.9.1
 comtypes==1.1.10
-conda==22.11.1
-conda-build==3.21.8
-conda-content-trust==0+unknown
-conda-pack==0.6.0
-conda-package-handling==1.8.1
-conda-repo-cli==1.0.4
-conda-token==0.3.0
-conda-verify==3.4.2
 constantly==15.1.0
 cookiecutter==1.7.3
 cryptography==3.4.8
