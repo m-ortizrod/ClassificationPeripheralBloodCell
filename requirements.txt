@@ -261,9 +261,6 @@ rich==12.6.0
 rope==0.22.0
 rsa==4.7.2
 Rtree==0.9.7
-ruamel.yaml==0.17.21
-ruamel.yaml.clib==0.2.6
-ruamel-yaml-conda==0.15.100
 s3transfer==0.5.0
 scikit-image==0.19.2
 scikit-learn==1.0.2
