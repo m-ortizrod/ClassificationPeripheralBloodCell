@@ -54,7 +54,6 @@ Pillow==9.0.1
 pipreqs==0.4.11
 plumbum==1.7.2
 ply==3.11
-protobuf==3.19.0
 pyarrow==10.0.0
 pyasn1-modules==0.2.8
 pycosat==0.6.3
@@ -106,4 +105,3 @@ win-unicode-console==0.5
 wincertstore==0.2
 yarg==0.1.9
 zict==2.0.0
-
